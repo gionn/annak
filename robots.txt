@@ -1,1 +1,1 @@
-Sitemap: https://gionn.github.io/annak//sitemap.xml
+Sitemap: https://gionn.github.io/annak/sitemap.xml
