@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Chiedi un preventivo"
-      url: "/contact"
+      url: "/contatti"
 excerpt: >
   Servizi di correzione bozze, revisione testi, editing e creazione contenuti.
 feature_row:
