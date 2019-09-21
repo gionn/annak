@@ -4,7 +4,7 @@ permalink: /contatti
 layout: single
 ---
 
- <form class="wj-contact" action="https://formspree.io/{{site.author.email}}" method="POST">
+ <form class="wj-contact" action="https://formspree.io/tisifone84@gmail.com" method="POST">
     <input type="text" name="email" placeholder="Tua email">
     <textarea type="text" name="content" rows="10" placeholder="Il tuo messaggio"></textarea>
     <input type="hidden" name="_subject" value="Richiesta di contatto FDM">

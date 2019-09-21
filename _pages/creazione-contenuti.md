@@ -15,4 +15,4 @@ Quindi: se hai bisogno di pubblicare o semplicemente di riassumere o
 semplificare gli appunti che hai su un certo argomento, inviami le informazioni
 e mi adopererò per comporre il testo adeguato.
 
-*[Prendi me, scegli me, ama me.](contatti)*
+*[Contattami](contatti)*

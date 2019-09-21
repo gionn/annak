@@ -39,4 +39,4 @@ della narrazione e, ad oggi, due romanzi revisionati con successo alle spalle e
 circa duemila articoli prodotti per il compianto sito *Terre di Lucca e di
 Versilia*.
 
-*[Prendi me, scegli me, ama me.](contatti)*
+*[Contattami](contatti)*

@@ -51,4 +51,4 @@ migliorarne la lettura. Con un punto di vista diverso, distaccato e scevro di
 pregiudizi, vi aiuterò ad esprimervi al meglio delle mie e delle vostre
 possibilità.
 
-*[Prendi me, scegli me, ama me.](contatti)*
+*[Contattami](contatti)*
