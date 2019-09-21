@@ -4,7 +4,7 @@ permalink: /editing
 layout: single
 ---
 
-Risolvo i problemi che non vi eravate posti.
+<b>Risolvo i problemi che non vi eravate posti.</b>
 
 > LISTA DELLA SPESA:<br/>
 > • latte<br/>
@@ -26,7 +26,7 @@ maiuscola ed è vero: un prosciutto di compleanno è una scelta discutibile. Fat
 sta che, complici le traverse per il barboncino diabetico che davvero Peppino ha
 adottato, la trama è stata completamente fraintesa.
 
-È qui che arrivo io. A salvare voi e i vostri personaggi dalle cinquine
+È qui che arrivo io. A salvare voi e i vostri personaggi dalle <i>cinquine</i>
 immeritate.
 
 Quando scrivete un articolo, un romanzo, un post su facebook o l'incriminante
@@ -44,7 +44,7 @@ senso, poco chiara e non interessa nessuno?
 
 Sono molte le domande che possono presentarsi correggendo un testo e sicuramente
 incidono gusto personale e conoscenza dell'argomento trattato. Quindi oltre a
-stare, certamente e primariamente, attenta a refusi, sintassi, ortografia e
+stare certamente e primariamente attenta a refusi, sintassi, ortografia e
 ripetizioni, cerco di evidenziare quelli che ritengo essere punti di debolezza
 nella trama, suggerendo variazioni e rimodellando le frasi per facilitarne e
 migliorarne la lettura. Con un punto di vista diverso, distaccato e scevro di
