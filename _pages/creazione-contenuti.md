@@ -4,8 +4,7 @@ permalink: /creazione-contenuti
 layout: single
 ---
 
-<h3>Anna Chiara, classe 84.<br/>
-Correggo, revisiono, riassumo, consiglio.</h3>
+<h3>Rassetto, riassesto, riassumo.</h3>
 
 Gestendo un sito di promozione culturale, ho imparato a mettere insieme,
 sintetizzare ed elaborare i dati raccolti e ricevuti dalle più disparate fonti,
