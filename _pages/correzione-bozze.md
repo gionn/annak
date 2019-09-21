@@ -21,8 +21,8 @@ Perciò, se sei già sicuro e soddisfatto del tuo componimento, ma hai bisogno d
 un cecchino per i refusi e un controllo generale della scorrevolezza del testo
 be':
 
-*[Prendi me, scegli me, ama me.](contatti)*
+*[Prendi me, scegli me, ama me.](contatti)*(Meredith Grey, Grey's Anatomy)
 
 Sì: è  una risposta decisamente altisonante, che denota un opinabile e
-oppugnabile livello di cultura televisiva; ma la cosa non ci riguarda perché,
+oppugnabile livello di cultura televisiva... Ma la cosa non ci riguarda perché,
 come promesso, è totalmente esente da errori di battitura.
