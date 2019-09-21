@@ -6,5 +6,7 @@ main:
     url: /editing
   - title: "Creazione contenuti"
     url: /creazione-contenuti
+  - title: "Chi sono"
+    url: /chi-sono
   - title: "Contatti"
-    url: /contact
+    url: /contatti
