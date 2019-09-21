@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://gionn.github.io/annak/annak/contact</loc>
+<loc>https://gionn.github.io/annak/annak/chi-sono</loc>
 </url>
 <url>
-<loc>https://gionn.github.io/annak/annak/creazione-contenuti</loc>
+<loc>https://gionn.github.io/annak/annak/contatti</loc>
 </url>
 <url>
 <loc>https://gionn.github.io/annak/annak/correzione-bozze</loc>
+</url>
+<url>
+<loc>https://gionn.github.io/annak/annak/creazione-contenuti</loc>
 </url>
 <url>
 <loc>https://gionn.github.io/annak/annak/editing</loc>
