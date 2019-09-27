@@ -47,7 +47,8 @@ incidono gusto personale e conoscenza dell'argomento trattato. Quindi oltre a
 stare certamente e primariamente attenta a refusi, sintassi, ortografia e
 ripetizioni, cerco di evidenziare quelli che ritengo essere punti di debolezza
 nella trama, suggerendo variazioni e rimodellando le frasi per facilitarne e
-migliorarne la lettura. Con un punto di vista diverso, distaccato e scevro di
+migliorarne la lettura. 
+Con un punto di vista diverso, distaccato e scevro di
 pregiudizi, vi aiuterò ad esprimervi al meglio delle mie e delle vostre
 possibilità.
 
