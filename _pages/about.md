@@ -35,7 +35,7 @@ autodidatta, non pretendo di spacciarmi per l'astro nascente dell'editoria. Sono
 una *sig.ra Nessuno*, che semplicemente sa cosa vorrebbe leggere e come vorrebbe
 leggerlo, con una certa attitudine all'editing sia della forma che del contenuto
 del testo, un'attenzione particolare alle ripetizioni, al ritmo e alla fluidità
-della narrazione e, ad oggi, due romanzi revisionati con successo alle spalle e
+della narrazione e, ad oggi, tre romanzi revisionati con successo alle spalle e
 circa duemila articoli prodotti per il compianto sito *Terre di Lucca e di
 Versilia*.
 
