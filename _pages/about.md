@@ -23,19 +23,23 @@ compito di mettere insieme e sintetizzare in maniera chiara le informazioni, le
 descrizioni e le presentazioni che ricevevo dai vari enti.
 
 Nel 2018 la scrittrice lucchese Alice Winchester, conscia di questo mio
-carattere quiescente da “figlia di maestra”, mi ha affidato con una certa
+carattere quiescente da <i>figlia di maestra</i>, mi ha affidato con una certa
 titubanza il compito di revisionare ortografia e sintassi del suo romanzo
 *Oblak*, in imminente uscita. Cosa che ho accettato di fare con altrettanta
 perplessità, essendo neofita in questo campo. È stata un'epifania: esiste un
 lavoro in cui mi si dà il permesso, anzi, MI SI CHIEDE, di ritoccare gli scritti
 altrui. Ci devo provare.
 
-**Per farla breve**: il mio background è esclusivamente casereccio e
-autodidatta, non pretendo di spacciarmi per l'astro nascente dell'editoria. Sono
-una *sig.ra Nessuno*, che semplicemente sa cosa vorrebbe leggere e come vorrebbe
-leggerlo, con una certa attitudine all'editing sia della forma che del contenuto
+**Per farla breve**: il mio percorso è iniziato in maniera esclusivamente casereccia
+e autodidatta, ma ho poi frequentato e portato a termine con ottimi risultati un corso 
+di correzione di bozza.
+Posso far vanto di un attestato, ma non pretendo di spacciarmi per l'astro nascente 
+dell'editoria. 
+Sono una *sig.ra Nessuno*, che semplicemente sa cosa vorrebbe leggere e come vorrebbe
+leggerlo, con una certa attitudine al micro editing sia della forma che del contenuto
 del testo, un'attenzione particolare alle ripetizioni, al ritmo e alla fluidità
-della narrazione e, ad oggi, tre romanzi revisionati con successo alle spalle e
+della narrazione e, ad oggi, tre romanzi revisionati con successo alle spalle,
+oltre che una serie di racconti, presentazioni e tesi di laurea, e
 circa duemila articoli prodotti per il compianto sito *Terre di Lucca e di
 Versilia*.
 
