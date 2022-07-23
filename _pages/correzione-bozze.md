@@ -24,5 +24,5 @@ be':
 *[Prendi me, scegli me, ama me.](contatti)* <small><em>(Meredith Grey, Grey's Anatomy)</em></small>
 
 Sì: è  una risposta decisamente altisonante, che denota un opinabile e
-oppugnabile livello di cultura televisiva... Ma la cosa non ci riguarda perché,
+oppugnabile livello di cultura televisiva, ma la cosa non ci riguarda perché,
 come promesso, è totalmente esente da errori di battitura.
