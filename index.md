@@ -19,7 +19,7 @@ feature_row:
     btn_label: "Leggi di più"
   - image_path: /assets/images/homepage/adio-pupa.jpg
     alt: "editing"
-    title: "Beta Reading e Micro Editing"
+    title: "Beta reading e Micro editing"
     excerpt: "Hai un libro nel cassetto e ti serve aiuto per renderne la lettura scorrevole e comprensibile ad un largo pubblico?"
     url: "/micro-editing"
     btn_class: "btn--primary"
