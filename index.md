@@ -8,7 +8,7 @@ header:
     - label: "<i class='fas fa-envelope'></i> Contattami"
       url: "/contatti"
 excerpt: >
-  Servizio di correzione bozze, revisione testi, editing e creazione contenuti
+  Servizio di correzione bozze, revisione testi, micro-editing e creazione contenuti
 feature_row:
   - image_path: /assets/images/homepage/almeno-di-te.jpg
     alt: "correzione bozze"
@@ -19,7 +19,7 @@ feature_row:
     btn_label: "Leggi di più"
   - image_path: /assets/images/homepage/adio-pupa.jpg
     alt: "editing"
-    title: "Beta reading e Micro editing"
+    title: "Beta reading e Micro-editing"
     excerpt: "Hai un libro nel cassetto e ti serve aiuto per renderne la lettura scorrevole e comprensibile ad un largo pubblico?"
     url: "/micro-editing"
     btn_class: "btn--primary"
