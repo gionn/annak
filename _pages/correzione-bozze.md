@@ -18,7 +18,7 @@ per verificarne la sintassi e assicurarvi che esso segua correttamente le norme
 della scrittura, le norme editoriali e i diversi aspetti della composizione.
 
 Ho frequentato e superato con profitto il corso di correzione di bozza dell'agenzia
-letteraria Saper Scrivere, perciò, se sei già sicuro e soddisfatto del tuo componimento, 
+letteraria Saper Scrivere, perciò, se sei già sicuro e soddisfatto del tuo componimento 
 ma hai bisogno di un cecchino per i refusi e un controllo generale della scorrevolezza 
 del testo, be':
 
