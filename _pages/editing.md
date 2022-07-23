@@ -1,5 +1,5 @@
 ---
-title: Micro editing
+title: Micro-editing
 permalink: /micro-editing
 layout: single
 ---
