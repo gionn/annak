@@ -17,9 +17,10 @@ qualcun altro, con mente fresca e attenta, a scandagliare il vostro elaborato
 per verificarne la sintassi e assicurarvi che esso segua correttamente le norme
 della scrittura, le norme editoriali e i diversi aspetti della composizione.
 
-Perciò, se sei già sicuro e soddisfatto del tuo componimento, ma hai bisogno di
-un cecchino per i refusi e un controllo generale della scorrevolezza del testo
-be':
+Ho frequentato e superato con profitto il corso di correzione di bozza dell'agenzia
+letteraria Saper Scrivere, perciò, se sei già sicuro e soddisfatto del tuo componimento, 
+ma hai bisogno di un cecchino per i refusi e un controllo generale della scorrevolezza 
+del testo, be':
 
 *[Prendi me, scegli me, ama me.](contatti)* <small><em>(Meredith Grey, Grey's Anatomy)</em></small>
 
