@@ -1,6 +1,6 @@
 ---
 title: Micro editing
-permalink: /editing
+permalink: /micro-editing
 layout: single
 ---
 
