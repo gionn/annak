@@ -1,5 +1,5 @@
 ---
-title: Micro-editing
+title: Beta reading e Micro-editing
 permalink: /micro-editing
 layout: single
 ---
