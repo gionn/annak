@@ -86,10 +86,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : google
-  google:
-    tracking_id          : UA-107557-25
-    anonymize_ip         : true
+  provider               : custom
 
 
 # Site Author
