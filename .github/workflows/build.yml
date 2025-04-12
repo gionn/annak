@@ -5,7 +5,6 @@ on:
     branches-ignore:
       - gh-pages
 
-
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref_name }}
 
@@ -13,7 +12,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
@@ -26,12 +25,3 @@ jobs:
       
       - name: Validate HTML output
         run: bundle exec htmlproofer ./_site --ignore-missing-alt --disable-external
-
-      - name: Deploy
-        if: github.ref_name == 'master'
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site
-          cname: figliadimaestra.it
-          force_orphan: true
