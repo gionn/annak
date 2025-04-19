@@ -82,7 +82,9 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links:
+    - https://www.facebook.com/figliadimaestra.it/
+    - https://www.instagram.com/figlia_di_maestra/
 
 # Analytics
 analytics:
@@ -101,7 +103,10 @@ author:
       url: "contatti"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/figliadimaestra.it/"
+      url: https://www.facebook.com/figliadimaestra.it/
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: https://www.instagram.com/figlia_di_maestra/
 
 # Site Footer
 footer:
@@ -111,7 +116,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: https://www.facebook.com/figliadimaestra.it/
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
@@ -123,7 +128,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: https://www.instagram.com/figlia_di_maestra/
 
 
 # Reading Files
