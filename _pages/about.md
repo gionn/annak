@@ -31,10 +31,10 @@ lavoro in cui mi si dà il permesso, anzi, MI SI CHIEDE, di ritoccare gli scritt
 altrui. Ci devo provare.
 
 **Per farla breve**: il mio percorso è iniziato in maniera esclusivamente casereccia
-e autodidatta, ma ho poi frequentato e portato a termine con ottimi risultati un corso 
+e autodidatta, ma ho poi frequentato e portato a termine con ottimi risultati un corso
 di correzione di bozza.
-Posso far vanto di un attestato, ma non pretendo di spacciarmi per l'astro nascente 
-dell'editoria. 
+Posso far vanto di un attestato, ma non pretendo di spacciarmi per l'astro nascente
+dell'editoria.
 Sono una *sig.ra Nessuno*, che semplicemente sa cosa vorrebbe leggere e come vorrebbe
 leggerlo, con una certa attitudine al micro editing sia della forma che del contenuto
 del testo, un'attenzione particolare alle ripetizioni, al ritmo e alla fluidità
