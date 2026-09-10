@@ -1,10 +1,10 @@
 ---
-title: La rubrica del fastidio
+title: Piuttosto che spiegarvi ancora l’uso del PIUTTOSTO CHE
 categories:
  
 tags:
   
-excerpt: Piuttosto che spiegarvi ancora l’uso del PIUTTOSTO CHE
+excerpt: la genesi della RUBRICA DEL FASTIDIO
 ---
 
 Quindi, è andata così:
