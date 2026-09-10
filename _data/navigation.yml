@@ -6,6 +6,8 @@ main:
     url: /micro-editing
   - title: "Creazione contenuti"
     url: /creazione-contenuti
+  - title: "Blog"
+    url: /blog/
   - title: "Chi sono"
     url: /chi-sono
   - title: "Contatti"
