@@ -20,14 +20,14 @@ feature_row:
   - image_path: /assets/images/homepage/adio-pupa.jpg
     alt: "editing"
     title: "Beta reading e Micro-editing"
-    excerpt: "Hai un libro nel cassetto e ti serve aiuto per renderne la lettura scorrevole e comprensibile ad un largo pubblico?"
+    excerpt: "Hai un libro nel cassetto e ti serve aiuto per renderne la lettura scorrevole e comprensibile a un largo pubblico?"
     url: "/micro-editing"
     btn_class: "btn--primary"
     btn_label: "Leggi di più"
   - image_path: /assets/images/homepage/quore.jpg
     alt: "creazione contenuti"
     title: "Creazione contenuti"
-    excerpt: "Vuoi contenuti sempre freschi per il tuo blog o sito aziendale? Dammi qualche idea per partire e mi metterò all'opera."
+    excerpt: "Vuoi contenuti sempre aggiornati per il tuo blog o sito aziendale? Dammi qualche idea per partire e mi metterò all’opera."
     url: "/creazione-contenuti"
     btn_class: "btn--primary"
     btn_label: "Leggi di più"
